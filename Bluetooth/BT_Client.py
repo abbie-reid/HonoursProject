@@ -4,7 +4,7 @@
 import sys
 import bluetooth
 
-jeston_nano_4_uuid = "00001800-0000-1000-8000-00805f9b34fb"
+jetson_nano_4_uuid = "00001800-0000-1000-8000-00805f9b34fb"
 server_name = "JetsonNano4"
 
 addr = None
